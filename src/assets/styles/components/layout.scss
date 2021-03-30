@@ -1,0 +1,21 @@
+@import '../_variables';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.8rem;
+  background-color: $color-grey;
+  font-family: 'Quicksand', sans-serif;
+}
+
+section {
+  margin-bottom: 2rem;
+}

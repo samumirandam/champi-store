@@ -1,0 +1,13 @@
+.Header {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.Header__figure {
+  width: 15rem;
+  justify-self: center;
+}
+
+.Header__img {
+  width: 100%;
+}
